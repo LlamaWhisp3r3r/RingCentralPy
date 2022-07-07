@@ -1,5 +1,5 @@
 # RingCentralPy
-With this module you can connect to the Less Annoying CRM's API using python.
+With this module you can connect to the RingCentral API's using python.
 
 ## Requirements
 
